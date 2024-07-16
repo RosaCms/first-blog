@@ -1,11 +1,11 @@
+import Blogs from "./components/Blogs"
 
 
 function App() {
 
   return (
     <>
-      <h1>Hi Hi ...</h1>
-      <h1>سلام چطوری ...</h1>
+     <Blogs />
     </>
   )
 }
